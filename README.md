@@ -14,3 +14,6 @@ https://github.com/Rogerrox/daily-planner
 
 #### Author
 Roger Medellin
+
+## Tutor Help
+Sengeetha Kaliaperumal
